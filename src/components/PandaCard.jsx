@@ -1,8 +1,7 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react'
 
-const pandaImage = "https://pixabay.com/get/g7ae6e6d45b98d9f40accaaa7fd62dfc819636df8705a67e9dcb3bae94cf84fb149b7dba49453b09114b91f1057f0a31087dea99c825621c092740bc490d2672e7cb58c8cc27cf3c2414c1b332e7aed00_640.png"
-
+const pandaImage = "https://cdn.pixabay.com/photo/2012/04/13/19/04/panda-33303_960_720.png"
 function PandaCard(){
     return(
         <div id="main-card">
